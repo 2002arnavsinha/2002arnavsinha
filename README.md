@@ -1,8 +1,7 @@
 # Hi, I'm Arnav Sinha! 👋
 
 🎓 **MSc Financial Engineering @ NYU Tandon**  
-📈 **Quantitative Finance | Machine Learning | Econometrics**  
-📊 Financial Engineering graduate student at NYU Tandon with a strong foundation in Economics, Mathematics, and Statistics, including advanced coursework in calculus and linear algebra. Experienced in econometric analysis, risk analysis, and quantitative methods, with hands-on experience in developing models and analyzing financial data using Python, R, and SQL. Currently seeking internship opportunities in risk and quantitative finance for summer 2025.
+📊 Financial Engineering graduate student at NYU Tandon with a strong foundation in Economics, Mathematics, and Statistics, including advanced calculus and linear algebra coursework. Experienced in econometric analysis, risk analysis, and quantitative methods, with hands-on experience developing models and analyzing financial data using Python, R, and SQL. Currently seeking internship opportunities in risk and quantitative finance for summer 2025.
 
 ---
 
