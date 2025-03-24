@@ -42,5 +42,3 @@
 
 ---
 
-### ⚡ Fun Fact  
-🔥 Did you know? The **Sharpe Ratio** helps measure **risk-adjusted returns** in portfolio management! 📈
