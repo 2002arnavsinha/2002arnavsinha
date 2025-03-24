@@ -21,13 +21,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2002arnavsinha&show_icons=true&theme=radical" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=2002arnavsinha&theme=radical" width="49%"/>
-</p>
-
----
 
 ### 🔥 Latest Projects  
 #### **🧠 Machine Learning & Quantitative Finance**
