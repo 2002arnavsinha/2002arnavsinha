@@ -6,21 +6,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **Systematic Multi-Factor Trading Strategy**  
-_Developed a multi-factor trading strategy using S&P 500 stocks, optimizing portfolio allocation based on factor exposure._  
-[🔗 Repo](#) | [📜 Read More](#)  
-
-🔹 **Forecasting Financial Market Volatility**  
-_Compared econometric models (GARCH, Markov Regime-Switching) with ML models (Random Forest, LSTM) for S&P 500 price prediction._  
-[🔗 Repo](#) | [📜 Read More](#)
-
-🔹 **NFT Wash Trading Detection**  
-_Implemented graph analysis techniques using NetworkX to detect anomalous trading patterns in NFT markets._  
-[🔗 Repo](#) | [📜 Read More](#)
-
----
 
 ## 💻 Tech Stack
 
@@ -30,6 +15,4 @@ _Implemented graph analysis techniques using NetworkX to detect anomalous tradin
 
 ## 📬 Connect with Me
 
-[LinkedIn](#) | [Email](#)  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+[LinkedIn](https://www.linkedin.com/in/arnav-sinha-55ab61216/) | [Email](as19390@nyu.edu)  
