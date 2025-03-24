@@ -27,7 +27,7 @@
 - 📌 [Bankruptcy-Classification-Classical-ML](https://github.com/2002arnavsinha/Bankruptcy-Classification-Classical-ML)  
 - 📌 [Systematic Multi-Factor Trading Strategy](https://github.com/2002arnavsinha/Systematic-Multi-Factor-Trading-Strategy)  
 - 📌 [Deep-Learning-Ship-Classification](https://github.com/2002arnavsinha/Deep-Learning-Ship-Classification)
-- 📌 [Deep-Learning-Ship-Classification](https://github.com/2002arnavsinha/pairs_trading_HJB_optimization)
+- 📌 [Pairs_trading_HJB_optimization](https://github.com/2002arnavsinha/pairs_trading_HJB_optimization)
   
 ---
 
