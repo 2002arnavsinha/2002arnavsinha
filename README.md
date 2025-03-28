@@ -25,11 +25,14 @@
 ### 🔥 Latest Projects  
 #### **🧠 Machine Learning & Quantitative Finance**
 - 📌 [Bankruptcy-Classification-Classical-ML](https://github.com/2002arnavsinha/Bankruptcy-Classification-Classical-ML)  
-- 📌 [Systematic Multi-Factor Trading Strategy](https://github.com/2002arnavsinha/Systematic-Multi-Factor-Trading-Strategy)  
 - 📌 [Deep-Learning-Ship-Classification](https://github.com/2002arnavsinha/Deep-Learning-Ship-Classification)
+
+#### **🧠 Quantitative Finance**
+- 📌 [Systematic Multi-Factor Trading Strategy](https://github.com/2002arnavsinha/Systematic-Multi-Factor-Trading-Strategy)
 - 📌 [Pairs_trading_HJB_optimization](https://github.com/2002arnavsinha/pairs_trading_HJB_optimization)
-- 📌 [Wash Trading](https://github.com/2002arnavsinha/Quantifying_Wash_Trading)
   
+#### **🧠 Misc**  
+- 📌 [Wash Trading in OpenSea Marketpalce](https://github.com/2002arnavsinha/Quantifying_Wash_Trading)
 ---
 
 ### 🌎 Connect with Me
