@@ -23,7 +23,7 @@
 
 
 ### 🔥 Latest Projects  
-#### **🧠 Machine Learning & Quantitative Finance**
+#### **🧠 Machine Learning**
 - 📌 [Bankruptcy-Classification-Classical-ML](https://github.com/2002arnavsinha/Bankruptcy-Classification-Classical-ML)  
 - 📌 [Deep-Learning-Ship-Classification](https://github.com/2002arnavsinha/Deep-Learning-Ship-Classification)
 
