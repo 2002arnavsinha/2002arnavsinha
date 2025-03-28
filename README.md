@@ -28,6 +28,7 @@
 - 📌 [Systematic Multi-Factor Trading Strategy](https://github.com/2002arnavsinha/Systematic-Multi-Factor-Trading-Strategy)  
 - 📌 [Deep-Learning-Ship-Classification](https://github.com/2002arnavsinha/Deep-Learning-Ship-Classification)
 - 📌 [Pairs_trading_HJB_optimization](https://github.com/2002arnavsinha/pairs_trading_HJB_optimization)
+- 📌 [Wash Trading](https://github.com/2002arnavsinha/Quantifying_Wash_Trading)
   
 ---
 
