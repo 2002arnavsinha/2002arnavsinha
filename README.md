@@ -21,23 +21,24 @@
 
 ---
 
+### 🚀 Latest Projects  
 
-### 🔥 Latest Projects  
 #### **🧠 Machine Learning**
-- 📌 [Bankruptcy-Classification-Classical-ML](https://github.com/2002arnavsinha/Bankruptcy-Classification-Classical-ML)  
-- 📌 [Deep-Learning-Ship-Classification](https://github.com/2002arnavsinha/Deep-Learning-Ship-Classification)
-- 📌 [Deep-Models-with-Engineered-Features](https://github.com/2002arnavsinha/Deep-Models-with-Engineered-Features) 
+- 🤖 [Bankruptcy-Classification-Classical-ML](https://github.com/2002arnavsinha/Bankruptcy-Classification-Classical-ML)  
+- 🛳️ [Deep-Learning-Ship-Classification](https://github.com/2002arnavsinha/Deep-Learning-Ship-Classification)
+- 🧬 [Deep-Models-with-Engineered-Features](https://github.com/2002arnavsinha/Deep-Models-with-Engineered-Features) 
 
-#### **🧠 Quantitative Finance**
-- 📌 [Systematic Multi-Factor Trading Strategy](https://github.com/2002arnavsinha/Systematic-Multi-Factor-Trading-Strategy)
-- 📌 [Pairs_trading_HJB_optimization](https://github.com/2002arnavsinha/pairs_trading_HJB_optimization)
-- 📌 [IAQF-SP500-Concentration-Impact](https://github.com/2002arnavsinha/IAQF-SP500-Concentration-Impact)
+#### **📈 Quantitative Finance**
+- 📊 [Systematic Multi-Factor Trading Strategy](https://github.com/2002arnavsinha/Systematic-Multi-Factor-Trading-Strategy)
+- 🔁 [Pairs_trading_HJB_optimization](https://github.com/2002arnavsinha/pairs_trading_HJB_optimization)
+- 🧠 [IAQF-SP500-Concentration-Impact](https://github.com/2002arnavsinha/IAQF-SP500-Concentration-Impact)
 
-#### **🧠 Risk**  
-- 📌 [PortfolioOptimization_ShrinkageLSTM](https://github.com/2002arnavsinha/PortfolioOptimization_ShrinkageLSTM)
+#### **📉 Risk**  
+- 🧮 [PortfolioOptimization_ShrinkageLSTM](https://github.com/2002arnavsinha/PortfolioOptimization_ShrinkageLSTM)
 
-#### **🧠 Misc**  
-- 📌 [Wash Trading in OpenSea Marketpalce](https://github.com/2002arnavsinha/Quantifying_Wash_Trading)
+#### **🧪 Misc**  
+- 🧼 [Wash Trading in OpenSea Marketpalce](https://github.com/2002arnavsinha/Quantifying_Wash_Trading)
+
 ---
 
 ### 🌎 Connect with Me
