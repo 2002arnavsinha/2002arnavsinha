@@ -33,7 +33,7 @@
 - 📌 [Pairs_trading_HJB_optimization](https://github.com/2002arnavsinha/pairs_trading_HJB_optimization)
 - 📌 [IAQF-SP500-Concentration-Impact](https://github.com/2002arnavsinha/IAQF-SP500-Concentration-Impact)
 
-#### **🧠 Risk **  
+#### **🧠 Risk**  
 - 📌 [PortfolioOptimization_ShrinkageLSTM](https://github.com/2002arnavsinha/PortfolioOptimization_ShrinkageLSTM)
 
 #### **🧠 Misc**  
