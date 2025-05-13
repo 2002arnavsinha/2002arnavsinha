@@ -26,6 +26,7 @@
 #### **🧠 Machine Learning**
 - 📌 [Bankruptcy-Classification-Classical-ML](https://github.com/2002arnavsinha/Bankruptcy-Classification-Classical-ML)  
 - 📌 [Deep-Learning-Ship-Classification](https://github.com/2002arnavsinha/Deep-Learning-Ship-Classification)
+- 📌 [Deep-Models-with-Engineered-Features](https://github.com/2002arnavsinha/Deep-Models-with-Engineered-Features) 
 
 #### **🧠 Quantitative Finance**
 - 📌 [Systematic Multi-Factor Trading Strategy](https://github.com/2002arnavsinha/Systematic-Multi-Factor-Trading-Strategy)
