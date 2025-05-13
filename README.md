@@ -30,6 +30,7 @@
 #### **🧠 Quantitative Finance**
 - 📌 [Systematic Multi-Factor Trading Strategy](https://github.com/2002arnavsinha/Systematic-Multi-Factor-Trading-Strategy)
 - 📌 [Pairs_trading_HJB_optimization](https://github.com/2002arnavsinha/pairs_trading_HJB_optimization)
+- 📌 [IAQF-SP500-Concentration-Impact](https://github.com/2002arnavsinha/IAQF-SP500-Concentration-Impact)
   
 #### **🧠 Misc**  
 - 📌 [Wash Trading in OpenSea Marketpalce](https://github.com/2002arnavsinha/Quantifying_Wash_Trading)
