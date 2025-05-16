@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=2002arnavsinha&label=Profile%20views&color=0e75b6&style=flat" alt="2002arnavsinha" />
+</p>
+
+
 <h1 align="center">Hi, I'm Arnav Sinha! 👋</h1>
 
 <p align="center">
