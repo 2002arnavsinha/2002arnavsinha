@@ -9,7 +9,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=2002arnavsinha&label=Profile%20views&color=0e75b6&style=flat" alt="2002arnavsinha" />
 </p>
----
 
 ### 🚀 Tech Stack
 <p align="center">
