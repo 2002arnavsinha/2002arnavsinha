@@ -2,8 +2,8 @@
 <h1 align="center">Hi, I'm Arnav Sinha! 👋</h1>
 
 <p align="center">
-  🎓 <b>MSc Financial Engineering @ NYU Tandon</b> <br>
-  📊 Financial Engineering graduate student with a strong foundation in Economics, Mathematics, and Statistics. <br>
+  🎓 <b>MS Financial Engineering @ NYU </b> <br>
+  📊 I have developed a unique perspective due to my exposure to subjects like Stochastic Optimal Control, Volatility Modeling, HFMs & TSMs in Fixed Income, Advanced Deep Learning, as well as my experience as an Analyst at JPMorgan Chase and as a Quantitative Researcher at a research firm in NYC. I also like literature, psychology, chess and music. <br>
   🔍 Currently seeking full-time opportunities in risk and quant finance. <br>
 </p>
 <p align="left">
