@@ -4,7 +4,7 @@
 <p align="center">
   🎓 <b>MSc Financial Engineering @ NYU Tandon</b> <br>
   📊 Financial Engineering graduate student with a strong foundation in Economics, Mathematics, and Statistics. <br>
-  🔍 Currently seeking internship opportunities in risk and quantitative finance for Summer 2025. <br>
+  🔍 Currently seeking full-time opportunities in risk and quant finance. <br>
 </p>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=2002arnavsinha&label=Profile%20views&color=0e75b6&style=flat" alt="2002arnavsinha" />
