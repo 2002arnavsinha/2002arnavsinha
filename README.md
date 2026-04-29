@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Alteryx-0078C0?style=for-the-badge&logo=alteryx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logo=bloomberg&logoColor=white"/>
