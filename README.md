@@ -31,7 +31,7 @@
 - [Systematic Multi-Factor Trading Strategy](https://github.com/2002arnavsinha/Systematic-Multi-Factor-Trading-Strategy)
 - [Pairs_trading_HJB_optimization](https://github.com/2002arnavsinha/pairs_trading_HJB_optimization)
 - [IAQF-SP500-Concentration-Impact](https://github.com/2002arnavsinha/IAQF-SP500-Concentration-Impact)
-- 
+- [Non-Linear-Factor-Efficacy-in-US-Equities](https://github.com/2002arnavsinha/Non-Linear-Factor-Efficacy-in-US-Equities) 
 #### **🧠 Machine Learning**
 - [Bankruptcy-Classification-Classical-ML](https://github.com/2002arnavsinha/Bankruptcy-Classification-Classical-ML)  
 - [Deep-Learning-Ship-Classification](https://github.com/2002arnavsinha/Deep-Learning-Ship-Classification)
